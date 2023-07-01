@@ -1,0 +1,128 @@
+/* Importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;700&display=swap');
+
+
+/* Global CSS */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* CSS For Classes */
+.background-image {
+  position: absolute;
+  left: 800px;
+  top: 150px;
+  height: 500px;
+}
+
+.course-name {
+  /* Layout */
+  width: 259px;
+  height: 21px;
+
+  /* Margin & Padding */
+  margin-top: 38px;
+  margin-bottom: 32px;
+  margin-right: 27px;
+
+  /* Typography */
+  color: #DEEBF8;
+  text-align: right;
+  font-size: 16px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+
+  /* Position */
+  position: relative;
+  left: 200px;
+}
+
+.logo-section {
+  /* Dimensions */
+  width: 50%;
+
+  /* Display properties */
+  display: flex;
+
+  /* Padding & Margin properties */
+  margin-left: 26px;
+  margin-top: 31px;
+  margin-bottom: 31.1px;
+}
+
+.logo-image {
+  /* Logo Dimensions */
+  width: 28.93px;
+  height: 28.93px;
+}
+
+.logo {
+  /* Aesthetics */
+  color: #61DAFB;
+
+  /* Font */
+  color: #61DAFB;
+  text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  font-size: 22.253px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1.113px;
+
+  /* Padding & Margin properties */
+  margin-left: 8px;
+}
+
+.facts-heading {
+  /* Margin & Padding */
+  padding-top: 57px;
+  padding-left: 27px;
+
+  /* Typography */
+  color: #FFF;
+  font-size: 39.06px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1.953px;
+}
+
+.list-container {
+  padding-left: 74px;
+  margin-top: 46px;
+}
+
+.list-items {
+  /* Typography */
+  color: #FFF;
+  font-size: 20px;
+  font-family: Inter;
+
+  /* Padding */
+  padding: 10px;
+}
+
+.main-container {
+  /* Aesthetics */
+  background: #282D35;
+
+  /* Margin & Padding */
+  padding-bottom: 275px;
+}
+
+.navbar-container {
+  /* Aesthetics */
+  background-color: #21222A;
+
+  /* Dimensions */
+  height: 91px;
+
+  /* Display Properties  */
+  display: flex;
+}

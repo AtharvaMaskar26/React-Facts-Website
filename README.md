@@ -1,2 +1,3 @@
 # React-Facts-Website
-Made while learning react 
+Created while learning ReactJS
+
